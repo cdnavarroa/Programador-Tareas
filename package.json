@@ -1,8 +1,8 @@
 {
-  "name": "prueba-tecnica",
+  "name": "Programador-Tareas",
   "version": "1.0.0",
   "private": true,
-  "description": "Monorepo para prueba técnica",
+  "description": "Monorepo para Programador de Tareas",
   "workspaces": [
     "Front",
     "Back"
