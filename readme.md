@@ -93,8 +93,8 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 ## 1. Clona el repositorio
 bash
 Copiar
-git clone https://github.com/cdnavarroa/Prueba-Tecnica.git
-cd Prueba-Tenica
+git clone https://github.com/cdnavarroa/Programador-Tareas.git
+cd Programador-Tareas
 ## 2. Configuración del Backend
 ### 2.1. Navega al directorio del backend:
 bash
@@ -111,7 +111,7 @@ env
 Copiar
 DB_USER= "root"
 DB_PASSWORD= ""
-DB_NAME= "prueba_tecnica"
+DB_NAME= "Programador-Tareas"
 DB_HOST= "localhost"
 DB_DIALECT= "mysql"
 DB_PORT= "3306"
